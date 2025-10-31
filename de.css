@@ -1,0 +1,33 @@
+table, tr, td ,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-radius: 10px;
+    border-style: double;
+    margin: 10px;
+}
+td,th{
+    padding: 10px;
+  
+}
+.p{
+    color: purple;
+}
+ a{
+            font-size: 30px;
+            text-decoration: none;
+            text-align: center;
+            text-transform: capitalize;
+            font-style: italic;
+        }
+        ol{
+            types:"I" ;
+        }
+        #c{
+            color: blue;
+        }
+        p{
+            color:blue;
+        }
+        .t{
+            types: "1";
+        }

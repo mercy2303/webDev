@@ -1,0 +1,33 @@
+table, tr, td{
+    border: 2px rgb(62, 9, 177);
+    border-collapse: collapse;
+    border-radius: 10px;
+    border-style: double;
+    border-color: blueviolet;
+    margin: 10px;
+}
+td,th{
+    padding: 10px;
+}
+ a{
+            font-size: 30px;
+            text-decoration: none;
+            text-align: center;
+            text-transform: capitalize;
+            font-style: italic;
+        }
+        ol{
+            types:"I" ;
+        }
+          img{
+
+    width: 200px;
+    height: 200px;
+    object-fit: cover; 
+     border-radius: 100px;  
+}
+h1{
+    color:turquoise;
+    font-family:serif;
+    font-style:italic;
+}

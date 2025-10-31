@@ -1,0 +1,38 @@
+
+img{
+
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: right;
+}
+h1{
+    color: dodgerblue;
+    font-family: monospace;
+    font-style: italic;
+
+  
+}
+p{
+    color: #000000;
+   
+}
+#p1{
+    color: aqua;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.p1{
+    color: blue;
+}
+button{
+    cursor: pointer;
+    border: none;
+    background: dodgerblue;
+    padding: 10px 5px;
+    margin-top: 10px;
+    color: white;
+    border-radius: 10px;
+
+}

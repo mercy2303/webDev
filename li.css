@@ -1,0 +1,41 @@
+ *{
+            margin: 30px;
+            padding: 10px;
+            margin-left: 10px;
+        }
+header{
+    height: 100px;
+    background-color: rgb(201, 194, 185);
+    display: flex;
+    width: 500px;
+  
+}
+main{
+    height: 60vh;
+    background-color: white;
+    width: 500px;
+}
+footer{
+    height: 70px;
+    background-color: bisque;
+    width: 500px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+     margin-bottom: 200px;
+}
+li{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 200px;
+    color: antiquewhite;
+}
+#member{
+    background-color: aquamarine;
+}
+div{
+    width: 550px;
+    background-color: black;
+}
